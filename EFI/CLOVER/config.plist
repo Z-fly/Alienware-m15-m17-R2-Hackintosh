@@ -99,7 +99,7 @@
 	<key>RtVariables</key>
 	<dict>
 		<key>CsrActiveConfig</key>
-		<string>0x0</string>
+		<string>0x67</string>
 		<key>MLB</key>
 		<string>00000000000000000</string>
 		<key>ROM</key>
@@ -112,9 +112,9 @@
 		<key>BiosVendor</key>
 		<string>Apple Inc.</string>
 		<key>BiosVersion</key>
-		<string>MBP152.88Z.F000.B00.2310052025</string>
+		<string>MBP164.88Z.F000.B00.2310052035</string>
 		<key>Board-ID</key>
-		<string>Mac-827FB448E656EC26</string>
+		<string>Mac-A61BADE1FDAD7B05</string>
 		<key>BoardManufacturer</key>
 		<string>Apple Inc.</string>
 		<key>BoardSerialNumber</key>
@@ -122,7 +122,7 @@
 		<key>BoardType</key>
 		<integer>10</integer>
 		<key>BoardVersion</key>
-		<string>MacBookPro15,2</string>
+		<string>MacBookPro16,4</string>
 		<key>ChassisAssetTag</key>
 		<string>Asset Tag#</string>
 		<key>ChassisManufacturer</key>
@@ -132,15 +132,15 @@
 		<key>EfiVersion</key>
 		<string>2020.41.1.0.0</string>
 		<key>ExtendedFirmwareFeatures</key>
-		<string>0x00000008FD8FF426</string>
+		<string>0x00000008FDAFF066</string>
 		<key>ExtendedFirmwareFeaturesMask</key>
-		<string>0x00000008FF9FFF3F</string>
+		<string>0x00000008FFFFFF7F</string>
 		<key>Family</key>
 		<string>MacBook Pro</string>
 		<key>FirmwareFeatures</key>
-		<string>0xFD8FF426</string>
+		<string>0xFDAFF066</string>
 		<key>FirmwareFeaturesMask</key>
-		<string>0xFF9FFF3F</string>
+		<string>0xFFFFFF7F</string>
 		<key>LocationInChassis</key>
 		<string>Part Component</string>
 		<key>Manufacturer</key>
@@ -150,7 +150,7 @@
 		<key>PlatformFeature</key>
 		<string>0x32</string>
 		<key>ProductName</key>
-		<string>MacBookPro15,2</string>
+		<string>MacBookPro16,4</string>
 		<key>SerialNumber</key>
 		<string>000000000000</string>
 		<key>Version</key>
